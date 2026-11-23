@@ -1,0 +1,12 @@
+[submodule "client_sdk"]
+	path = client_sdk
+	url = https://github.com/windownik/client_sdk.git
+[submodule "level_2_services"]
+	path = level_2_services
+	url = https://github.com/windownik/level_2_services.git
+[submodule "mesh_node"]
+	path = mesh_node
+	url = https://github.com/windownik/mesh_node.git
+[submodule "protocol_whitepaper"]
+	path = protocol_whitepaper
+	url = https://github.com/windownik/protocol_whitepaper.git
